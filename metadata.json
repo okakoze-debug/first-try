@@ -1,0 +1,6 @@
+{
+  "name": "A Letter for My Baby",
+  "description": "An interactive romantic letter experience with animated envelope opening and heartwarming love letter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
